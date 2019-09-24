@@ -1,5 +1,6 @@
 {
   "name": ["Ancient", "primordial"],
   "age": ["Number", "positive"],
-  "description": ["Lovecraft", "paragraph"]
+  "description": ["Lovecraft", "paragraph"],
+  "likes": 0
 }
